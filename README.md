@@ -1,4 +1,4 @@
-# excel-fitness-dashboard
+# Excel-fitness-dashboard
 Interactive fitness and health tracking dashboard built in Excel
 I designed and built an interactive fitness and health tracking dashboard in Microsoft Excel to analyze personal health metrics and workout performance over time.
 
